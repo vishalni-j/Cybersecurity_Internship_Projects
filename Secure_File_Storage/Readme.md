@@ -52,7 +52,7 @@ Log entry: [2024-06-20 14:02] DECRYPT: secret_document.txt.enc → secret_docume
 ├── secure_storage.py      # Main application
 ├── secret.key            # Auto-generated encryption key (Encrypted)
 ├── file_encryptor.log    # Operation audit log
-└── requirements.txt      # Dependencies
+└── advanced_usage.md     # a complete guide
 
 # Security Notes
 Backup secret.key: Losing this means losing access to encrypted files
