@@ -1,4 +1,4 @@
-## Secure File Storage
+##### Secure File Storage
 
 # 🔒 VaultGuard - AES-256 File Encryption System
 
