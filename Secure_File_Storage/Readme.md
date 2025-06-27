@@ -1,6 +1,6 @@
-##### Secure File Storage
+# Secure File Storage
 
-# 🔒 VaultGuard - AES-256 File Encryption System
+##🔒 VaultGuard - AES-256 File Encryption System
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Cryptography](https://img.shields.io/badge/AES-256_Military_Grade-brightgreen)
