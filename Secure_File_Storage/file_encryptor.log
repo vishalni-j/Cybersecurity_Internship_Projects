@@ -1,0 +1,11 @@
+2025-06-23 11:29:23,107 - Encryption failed: [Errno 2] No such file or directory: 'C:\\Users\\You\\secret.txt  # File to encrypt'
+2025-06-23 11:30:07,668 - Encryption failed: [Errno 2] No such file or directory: 'C:\\Users\\SAKTHI SREE\\secret.txt'
+2025-06-23 11:31:38,515 - Encrypted: C:\Users\SAKTHI SREE\Secret.txt \u2192 C:\Users\SAKTHI SREE\Secret.txt.enc
+2025-06-23 11:38:45,562 - Decryption failed: 
+2025-06-23 11:40:32,030 - Decryption failed: 
+2025-06-23 11:48:52,551 - Decryption failed: 
+2025-06-23 11:54:04,710 - Encryption failed: [Errno 2] No such file or directory: 'D:\\test.py'
+2025-06-23 11:54:36,678 - Encrypted: D:\test.txt \u2192 D:\test.txt.enc
+2025-06-23 11:55:04,550 - Decryption failed: 
+2025-06-23 12:02:02,819 - Encrypted: D:\test.txt \u2192 D:\test.txt.enc
+2025-06-23 12:02:19,033 - Decryption failed: 
